@@ -1,1 +1,3 @@
-"# ESP32-LED-Blink" 
+# ESP32 Blink Project
+
+Blinks an LED using Rust and ESP-IDF framework.
